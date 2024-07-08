@@ -8,7 +8,7 @@ This example use the following:
 * Play 2.1 as a web framework
 * Play ReactiveMongo plugin
 
-This application manages articles. An article has a title, a text content and a publisher. The articles can be updated and sorted by title, publisher, creation/update date, etc. One or more attachments can be uploaded and bound to an article (like an image, a pdf, an archive...). All the classic CRUD operations are implemented.
+This application manages articles. An article has a title, a text content and a publisher. The articles can be updated and sorted by title, publisher, creation/update date, etc. One or more attachments can be uploaded and bound to an article (like an image, a pdf, an archive...). All the classic CRUD operations are implemented. 
 
 To sum up, this sample covers the following features of MongoDB: 
 * Simple queries

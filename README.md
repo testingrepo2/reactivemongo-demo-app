@@ -10,7 +10,7 @@ This example use the following:
 
 This application manages articles. An article has a title, a text content and a publisher. The articles can be updated and sorted by title, publisher, creation/update date, etc. One or more attachments can be uploaded and bound to an article (like an image, a pdf, an archive...). All the classic CRUD operations are implemented.
 
-To sum up, this sample covers the following features of MongoDB:
+To sum up, this sample covers the following features of MongoDB: 
 * Simple queries
 * Sorting the results of a query
 * Update
